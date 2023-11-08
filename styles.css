@@ -15,7 +15,6 @@ body {
     grid-template-columns: repeat(3, 150px);
     /* width: 100vw; */
     /* height: 100%; */
-    padding: 1em;
     border: 2px solid blue;
 }
 
@@ -24,7 +23,7 @@ div {
     width: fit-content;
 }
 
-video {
+/* video {
     max-height: 260px;
-}
+} */
 /* 424 × 570 */
