@@ -14,4 +14,8 @@ body {
     /* height: 100%; */
     padding: 1em;
 }
+
+video {
+    max-height: 30vh;
+}
 /* 424 × 570 */
