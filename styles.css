@@ -24,6 +24,6 @@ video {
 }
 
 div.container>div:nth-child(2) {
-    filter: grayscale(1);
+    filter: hue-rotate(75deg) brightness(1.2) grayscale(1) sepia(.55);
 }
 /* 424 × 570 */
