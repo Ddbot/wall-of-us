@@ -22,4 +22,8 @@ div {
 video {
     max-height: 161px;
 }
+
+div.container>div:nth-child(2) {
+    filter: grayscale(1);
+}
 /* 424 × 570 */
