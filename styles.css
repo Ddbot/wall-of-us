@@ -1,7 +1,6 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-color: green;
 }
 
 .container {
@@ -10,5 +9,6 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     width: 100vw;
     height: 100vh;
-    background-color: red;
 }
+
+/* 424 × 570 */
