@@ -15,6 +15,10 @@ body {
     padding: 1em;
 }
 
+div {
+    border: 2px solid red;
+}
+
 video {
     max-height: 260px;
 }
